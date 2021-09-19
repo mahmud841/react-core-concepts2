@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.product{
+  background-color: #cfd5e0;
+  margin: 20px;
+}
+.user-ui{
+  background-color: #bce952;
+  margin: 20px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
